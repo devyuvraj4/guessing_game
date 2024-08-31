@@ -26,7 +26,7 @@ This is a command-line based guessing game implemented in Rust. The game generat
 2. Build the project:
 
     ```bash Copy code
-        cargo build
+    cargo build
     ```    
 3. Run the game:
 
@@ -35,15 +35,15 @@ This is a command-line based guessing game implemented in Rust. The game generat
     ```
 ## How to Play
 
-    The game will prompt you to input a guess within a specified range (e.g., 1 to 100).
-    Type your guess and press Enter.
-    The game will tell you if your guess was too high, too low, or correct.
-    Continue guessing until you find the correct number.
-    The game will congratulate you once you've guessed the correct number.
+    * The game will prompt you to input a guess within a specified range (e.g., 1 to 100).
+    * Type your guess and press Enter.
+    * The game will tell you if your guess was too high, too low, or correct.
+    * Continue guessing until you find the correct number.
+    * The game will congratulate you once you've guessed the correct number.
     
 ## Example Gameplay
 
-    ```css Copy code
+    ```
     Guess the number!
     Please input your guess.
     > 50
